@@ -1269,3 +1269,17 @@
          margin-top: 20px;
      }
  }
+ @media (max-width: 399px) {
+     h2 {
+         font-size: 28px;
+     }
+     #hero h1 {
+         font-size: 32px;
+     }
+     p {
+         font-size: 12px;
+     }
+     #feature {
+         padding: 20px;
+     }
+ }
